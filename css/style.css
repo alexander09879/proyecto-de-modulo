@@ -29,3 +29,11 @@ nav li{
     border-radius: 10px;
     
 }
+footer{
+    background-color:lightcyan;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
