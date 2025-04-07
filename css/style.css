@@ -37,6 +37,27 @@ nav li{
     border-radius: 10px;
     
 }
+
+.card {
+    margin: 20px;
+    width: 300px;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 10px, 10px, 20px #000;
+    text-align: center;
+    color: #FFB6C1;
+    font-family: "EB Garamond", serif;
+    font-size: 25px;
+}
+.card img{
+    width: 50%;
+    border-radius: 20px 20px 0 0 ;
+}
+.targetas{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
 footer{
     background-color:rgb(0, 0, 0);
     text-align: center;
