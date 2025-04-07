@@ -29,6 +29,7 @@ nav li{
     border-radius: 10px;
     
 }
+
 .card {
     margin: 20px;
     width: 300px;
@@ -48,4 +49,12 @@ nav li{
     display: flex;
     justify-content: center;
     justify-content: space-evenly;
+}
+footer{
+    background-color:lightcyan;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
