@@ -1,6 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Jersey+25&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Expanded+One&family=Teko:wght@300..700&display=swap');
 
 body{
     margin: 0;
@@ -179,4 +180,29 @@ align-items: center;
   .icono img {
     width: 50px;
     height: 50px;
+  }
+  .inicio{
+background-color: #000;
+display: flex;
+  }
+  .inicio img {
+    height: 300px;
+    display: flex;
+
+  }
+
+  .textoinicio {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    display: flex;
+    font-family: "Jersey 25", sans-serif;
+   justify-content:space-around;
+   align-items: center;
+   flex-direction: column;
+
+  }
+  .texto p{
+    font-size: 20px;
+    font-family: "Special Gothic Expanded One", sans-serif;
   }
